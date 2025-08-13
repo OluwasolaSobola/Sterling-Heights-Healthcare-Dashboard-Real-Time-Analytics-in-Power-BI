@@ -205,7 +205,7 @@ An average patient age of 46.7 years points to a population skewed toward middle
 <img width="1027" height="122" alt="image" src="https://github.com/user-attachments/assets/bbec9823-4e0a-48d4-8cc8-786d7efb078c" />
 <img width="1032" height="126" alt="image" src="https://github.com/user-attachments/assets/d4e99c9b-1e8a-47c3-b397-1f1b1e1367ee" />
 
-### 2. Area Chart – Patient Visit Trends**
+### 2. Area Chart – Patient Visit Trends
 **What It Shows:**
 Monthly patient visit volumes segmented by admitted and non-admitted cases.
 
@@ -278,7 +278,7 @@ correlated with patient volume data.
 
 <img width="710" height="217" alt="image" src="https://github.com/user-attachments/assets/d825b4ad-6c39-40f7-a193-5ecd087443f1" />
 
-### 7. Donut Chart – Doctors by Gender**
+### 7. Donut Chart – Doctors by Gender
 **What It Shows:**
 Gender distribution of doctors at Sterling Heights Hospital, providing an overview of staff diversity.
 
