@@ -397,7 +397,7 @@ Doctor availability is inconsistent, with a low of 18 doctors on Day 22, likely 
 
 - Develop a dynamic scheduling system based on patient volume trends.
 
--Align doctor shifts with peak demand periods by analyzing visit patterns by department and time.
+- Align doctor shifts with peak demand periods by analyzing visit patterns by department and time.
 
 **3. Improve Patient Satisfaction Beyond Wait Times**
 
