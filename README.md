@@ -4,6 +4,11 @@
 
 <img width="1024" height="683" alt="HOSPITAL IMAGE" src="https://github.com/user-attachments/assets/110964d5-78ac-4263-8602-e5ee19031886" />
 
+
+Disclaimer ⚠️:
+All datasets, slides, and reports do not contain any real proprietary, confidential, or sensitive information from any company, institution, or individual mentioned. All information is dummy data, designed solely to demonstrate my capabilities in using Power BI to perform advanced analysis on healthcare datasets.
+
+
 ### Table of Contents
 ---
 
